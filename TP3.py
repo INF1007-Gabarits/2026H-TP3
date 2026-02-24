@@ -1,6 +1,6 @@
 
 """
-TP2 : Système de gestion de livres pour une bibliothèque
+TP3 : Système de gestion de livres pour une bibliothèque
 
 IMPORTANT :
 - Suivre attentivement les directives dans le fichier README.md.
